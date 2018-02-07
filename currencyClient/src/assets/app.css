@@ -1,0 +1,48 @@
+.contentwrapper {
+  margin: 40px auto;
+  padding: 40px;
+  background-color: #ffffff;
+  width: 90%;
+}
+
+.inputwrapper {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.actionbtn {
+  background-color: transparent;
+  border: 1px solid rgba(24, 103, 194, .81);
+  color: rgba(24, 103, 194, .81);
+  width: 80%;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.actionbtn:active {
+  background-color: transparent;
+  border: 1px solid rgba(24, 103, 194, .81);
+  color: rgba(24, 103, 194, .81);
+  width: 50%;
+  margin-bottom: 50px;
+  box-shadow: 0 3px 0 #00823f;
+  top: 3px;
+}
+
+.inputfield {
+  margin-top: 20px;
+  border-bottom: solid 1px black;
+}
+
+.toastclass .toast {
+  background-color: #efefef;
+  opacity: .8;
+}
+
+.toastclass .toast__message {
+  color: #000000;
+}
+
+.gap40 {
+  margin: 20px 0px;
+}
