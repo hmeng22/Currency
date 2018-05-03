@@ -1,0 +1,14 @@
+Search
+
+1. country name : English, Chinese, Spanish, French, Russian, Arabic
+2. capital city
+3. country code_alpha2, alpha3, numeric3
+4. continent
+5. dial
+6. region
+7. domain name
+8. currency alphabetic code
+9. currency name
+10. currency numeric code
+11. currency notes denomination
+12. currency coins denomination

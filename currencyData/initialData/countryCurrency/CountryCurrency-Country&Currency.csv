@@ -1,0 +1,251 @@
+country_name,national_wealth_2017,country_official_name_ar,country_official_name_cn,country_official_name_en,country_official_name_es,country_official_name_fr,country_official_name_ru,country_display_name,country_capital,country_continent,country_dial,country_region_code,country_region_name,country_top_level_domain,country_code_alpha_2,country_code_alpha_3,country_code_numeric_3,currency_name,currency_country_name,currency_alphabetic_code,currency_numeric_code,currency_notes_values_ranks,currency_coins_values_ranks,currency_notes_material
+United States of America,1,الولايات المتحدة الأمريكية,美利坚合众国,United States of America,Estados Unidos de América,États-Unis d'Amérique,Соединенные Штаты Америки,US,Washington,NA,1,19,Americas,.us,US,USA,840,US Dollar,UNITED STATES OF AMERICA,USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+China,2,الصين,中国,China,China,Chine,Китай,China,Beijing,AS,86,142,Asia,.cn,CN,CHN,156,Yuan Renminbi,CHINA,CNY,156,"0.1,0.5,1,5,10,20,50,100","0.01,0.02,0.05,0.1,0.5,1",paper
+Japan,3,اليابان,日本,Japan,Japón,Japon,Япония,Japan,Tokyo,AS,81,142,Asia,.jp,JP,JPN,392,Yen,JAPAN,JPY,392,"1000,2000,5000,10000","1,5,10,50,100,500",paper
+United Kingdom of Great Britain and Northern Ireland,4,المملكة المتحدة لبريطانيا العظمى وآيرلندا الشمالية,大不列颠及北爱尔兰联合王国,United Kingdom of Great Britain and Northern Ireland,Reino Unido de Gran Bretaña e Irlanda del Norte,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Соединенное Королевство Великобритании и Северной Ирландии,UK,London,EU,44,150,Europe,.uk,GB,GBR,826,Pound Sterling,UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND,GBP,826,"5,10,20,50","0.01,0.02,0.05,0.10,0.20,0.50,1,2",paper
+Germany,5,ألمانيا,德国,Germany,Alemania,Allemagne,Германия,Germany,Berlin,EU,49,150,Europe,.de,DE,DEU,276,Euro,GERMANY,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+France,6,فرنسا,法国,France,Francia,France,Франция,France,Paris,EU,33,150,Europe,.fr,FR,FRA,250,Euro,FRANCE,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Italy,7,إيطاليا,意大利,Italy,Italia,Italie,Италия,Italy,Rome,EU,39,150,Europe,.it,IT,ITA,380,Euro,ITALY,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Canada,8,كندا,加拿大,Canada,Canadá,Canada,Канада,Canada,Ottawa,NA,1,19,Americas,.ca,CA,CAN,124,Canadian Dollar,CANADA,CAD,124,"5,10,20,50,100","0.01,0.05,0.10,0.25,1,2",polymer
+Australia,9,أستراليا,澳大利亚,Australia,Australia,Australie,Австралия,Australia,Canberra,OC,61,9,Oceania,.au,AU,AUS,36,Australian Dollar,AUSTRALIA,AUD,36,"5,10,20,50,100","0.05,0.10,0.20,0.50,1,2",polymer
+Republic of Korea,10,جمهورية كوريا,大韩民国,Republic of Korea,República de Corea,République de Corée,Республика Корея,South Korea,Seoul,AS,82,142,Asia,.kr,KR,KOR,410,Won,KOREA (THE REPUBLIC OF),KRW,410,"1000,5000,10000","10,50,100,500",paper
+India,11,الهند,印度,India,India,Inde,Индия,India,New Delhi,AS,91,142,Asia,.in,IN,IND,356,Indian Rupee,INDIA,INR,356,"10,20,50,100,500,1000","0.05,0.10,0.20,0.25,0.50,1,2,5",paper
+Spain,12,إسبانيا,西班牙,Spain,España,Espagne,Испания,Spain,Madrid,EU,34,150,Europe,.es,ES,ESP,724,Euro,SPAIN,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Switzerland,13,سويسرا,瑞士,Switzerland,Suiza,Suisse,Швейцария,Switzerland,Bern,EU,41,150,Europe,.ch,CH,CHE,756,Swiss Franc,SWITZERLAND,CHF,756,"10,20,50,100,200,1000","0.05,0.10,0.20,0.50,1,2,5",paper
+"China, Taiwan",14,,,,,,,Taiwan,Taiwan,TW,886,,Asia,.tw,TW,TWN,158,New Taiwan Dollar,,,,"100,200,500,1000,2000","1,5,10,20,50",paper
+Netherlands,15,هولندا,荷兰,Netherlands,Países Bajos,Pays-Bas,Нидерланды,Netherlands,Amsterdam,EU,31,150,Europe,.nl,NL,NLD,528,Euro,NETHERLANDS,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Brazil,16,البرازيل,巴西,Brazil,Brasil,Brésil,Бразилия,Brazil,Brasilia,SA,55,19,Americas,.br,BR,BRA,76,Brazilian Real,BRAZIL,BRL,986,"1,2,5,10,50,100","0.01,0.05,0.10,0.25,0.50,1",paper
+Belgium,17,بلجيكا,比利时,Belgium,Bélgica,Belgique,Бельгия,Belgium,Brussels,EU,32,150,Europe,.be,BE,BEL,56,Euro,BELGIUM,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Sweden,18,السويد,瑞典,Sweden,Suecia,Suède,Швеция,Sweden,Stockholm,EU,46,150,Europe,.se,SE,SWE,752,Swedish Krona,SWEDEN,SEK,752,"20,50,100,500,1000","0.50,1,2,5,10",paper
+Russian Federation,19,الاتحاد الروسي,俄罗斯联邦,Russian Federation,Federación de Rusia,Fédération de Russie,Российская Федерация,Russia,Moscow,EU,7,150,Europe,.ru,RU,RUS,643,Russian Ruble,RUSSIAN FEDERATION,RUB,643,"10,50,100,500,1000,5000","0.01,0.05,0.10,0.50,1,2,5,10",paper
+Indonesia,20,إندونيسيا,印度尼西亚,Indonesia,Indonesia,Indonésie,Индонезия,Indonesia,Jakarta,AS,62,142,Asia,.id,ID,IDN,360,Rupiah,INDONESIA,IDR,360,"500,1000,5000,10000,20000,50000,100000","25,50,100,500,1000",paper
+Mexico,21,المكسيك,墨西哥,Mexico,México,Mexique,Мексика,Mexico,Mexico City,NA,52,19,Americas,.mx,MX,MEX,484,Mexican Peso,MEXICO,MXN,484,"20,50,100,200,500,1000","0.05,0.10,0.20,0.50,1,2,5,10,20,50,100",paper
+Austria,22,النمسا,奥地利,Austria,Austria,Autriche,Австрия,Austria,Vienna,EU,43,150,Europe,.at,AT,AUT,40,Euro,AUSTRIA,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Norway,23,النرويج,挪威,Norway,Noruega,Norvège,Норвегия,Norway,Oslo,EU,47,150,Europe,.no,NO,NOR,578,Norwegian Krone,NORWAY,NOK,578,"50,100,200,500,1000","0.50,1,5,10,20",paper
+Denmark,24,الدانمرك,丹麦,Denmark,Dinamarca,Danemark,Дания,Denmark,Copenhagen,EU,45,150,Europe,.dk,DK,DNK,208,Danish Krone,DENMARK,DKK,208,"50,100,200,500,1000","0.25,0.50,1,2,5,10,20",paper
+Singapore,25,سنغافورة,新加坡,Singapore,Singapur,Singapour,Сингапур,Singapore,Singapore,AS,65,142,Asia,.sg,SG,SGP,702,Singapore Dollar,SINGAPORE,SGD,702,"2,5,10,50,100,500,1000,10000","0.01,0.05,0.10,0.20,0.50,1",paper
+"China, Hong Kong Special Administrative Region",26,منطقة هونغ كونغ الصينية الإدارية الخاصة,中国香港特别行政区,"China, Hong Kong Special Administrative Region","China, región administrativa especial de Hong Kong","Chine, région administrative spéciale de Hong Kong","Китай, Специальный административный район Гонконг",Hong Kong,Hong Kong,AS,852,142,Asia,.hk,HK,HKG,344,Hong Kong Dollar,HONG KONG,HKD,344,"10,20,50,100,500,1000","0.10,0.20,0.50,1,2,5,10",paper
+New Zealand,27,نيوزيلندا,新西兰,New Zealand,Nueva Zelandia,Nouvelle-Zélande,Новая Зеландия,New Zealand,Wellington,OC,64,9,Oceania,.nz,NZ,NZL,554,New Zealand Dollar,NEW ZEALAND,NZD,554,"5,10,20,50,100","0.10,0.20,0.50,1,2",polymer
+Turkey,28,تركيا,土耳其,Turkey,Turquía,Turquie,Турция,Turkey,Ankara,AS,90,142,Asia,.tr,TR,TUR,792,Turkish Lira,TURKEY,TRY,949,"1,5,10,20,50,100,200","0.01,0.05,0.10,0.25,0.50,1",paper
+Israel,29,إسرائيل,以色列,Israel,Israel,Israël,Израиль,Israel,Jerusalem,AS,972,142,Asia,.il,IL,ISR,376,New Israeli Sheqel,ISRAEL,ILS,376,"20,50,100,200","0.10,0.50,1,5,10,50,100",paper
+Greece,30,اليونان,希腊,Greece,Grecia,Grèce,Греция,Greece,Athens,EU,30,150,Europe,.gr,GR,GRC,300,Euro,GREECE,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Afghanistan,,أفغانستان,阿富汗,Afghanistan,Afganistán,Afghanistan,Афганистан,Afghanistan,Kabul,AS,93,142,Asia,.af,AF,AFG,4,Afghani,AFGHANISTAN,AFN,971,,,paper
+Åland Islands,,جزر ألاند,奥兰群岛,Åland Islands,Islas Åland,Îles d'Åland,Аландские острова,Åland Islands,Mariehamn,EU,358,150,Europe,.ax,AX,ALA,248,Euro,ÅLAND ISLANDS,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Albania,,ألبانيا,阿尔巴尼亚,Albania,Albania,Albanie,Албания,Albania,Tirana,EU,355,150,Europe,.al,AL,ALB,8,Lek,ALBANIA,ALL,8,,,paper
+Algeria,,الجزائر,阿尔及利亚,Algeria,Argelia,Algérie,Алжир,Algeria,Algiers,AF,213,2,Africa,.dz,DZ,DZA,12,Algerian Dinar,ALGERIA,DZD,12,,,paper
+American Samoa,,ساموا الأمريكية,美属萨摩亚,American Samoa,Samoa Americana,Samoa américaines,Американское Самоа,American Samoa,Pago Pago,OC,1-684,9,Oceania,.as,AS,ASM,16,US Dollar,AMERICAN SAMOA,USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+Andorra,,أندورا,安道尔,Andorra,Andorra,Andorre,Андорра,Andorra,Andorra la Vella,EU,376,150,Europe,.ad,AD,AND,20,Euro,ANDORRA,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Angola,,أنغولا,安哥拉,Angola,Angola,Angola,Ангола,Angola,Luanda,AF,244,2,Africa,.ao,AO,AGO,24,Kwanza,ANGOLA,AOA,973,,,paper
+Anguilla,,أنغيلا,安圭拉,Anguilla,Anguila,Anguilla,Ангилья,Anguilla,The Valley,NA,1-264,19,Americas,.ai,AI,AIA,660,East Caribbean Dollar,ANGUILLA,XCD,951,,,paper
+Antarctica,,أنتاركتيكا,南极洲,Antarctica,Antártida,Antarctique,Антарктике,Antarctica,,AN,672,,,.aq,AQ,ATA,10,No universal currency,ANTARCTICA,,,,,
+Antigua and Barbuda,,أنتيغوا وبربودا,安提瓜和巴布达,Antigua and Barbuda,Antigua y Barbuda,Antigua-et-Barbuda,Антигуа и Барбуда,Antigua & Barbuda,St. John's,NA,1-268,19,Americas,.ag,AG,ATG,28,East Caribbean Dollar,ANTIGUA AND BARBUDA,XCD,951,,,paper
+Argentina,,الأرجنتين,阿根廷,Argentina,Argentina,Argentine,Аргентина,Argentina,Buenos Aires,SA,54,19,Americas,.ar,AR,ARG,32,Argentine Peso,ARGENTINA,ARS,32,,,paper
+Armenia,,أرمينيا,亚美尼亚,Armenia,Armenia,Arménie,Армения,Armenia,Yerevan,AS,374,142,Asia,.am,AM,ARM,51,Armenian Dram,ARMENIA,AMD,51,,,paper
+Aruba,,أروبا,阿鲁巴,Aruba,Aruba,Aruba,Аруба,Aruba,Oranjestad,NA,297,19,Americas,.aw,AW,ABW,533,Aruban Florin,ARUBA,AWG,533,,,paper
+Azerbaijan,,أذربيجان,阿塞拜疆,Azerbaijan,Azerbaiyán,Azerbaïdjan,Азербайджан,Azerbaijan,Baku,AS,994,142,Asia,.az,AZ,AZE,31,Azerbaijan Manat,AZERBAIJAN,AZN,944,,,paper
+Bahamas,,جزر البهاما,巴哈马,Bahamas,Bahamas,Bahamas,Багамские Острова,Bahamas,Nassau,NA,1-242,19,Americas,.bs,BS,BHS,44,Bahamian Dollar,BAHAMAS,BSD,44,,,paper
+Bahrain,,البحرين,巴林,Bahrain,Bahrein,Bahreïn,Бахрейн,Bahrain,Manama,AS,973,142,Asia,.bh,BH,BHR,48,Bahraini Dinar,BAHRAIN,BHD,48,,,paper
+Bangladesh,,بنغلاديش,孟加拉国,Bangladesh,Bangladesh,Bangladesh,Бангладеш,Bangladesh,Dhaka,AS,880,142,Asia,.bd,BD,BGD,50,Taka,BANGLADESH,BDT,50,,,paper
+Barbados,,بربادوس,巴巴多斯,Barbados,Barbados,Barbade,Барбадос,Barbados,Bridgetown,NA,1-246,19,Americas,.bb,BB,BRB,52,Barbados Dollar,BARBADOS,BBD,52,,,paper
+Belarus,,بيلاروس,白俄罗斯,Belarus,Belarús,Bélarus,Беларусь,Belarus,Minsk,EU,375,150,Europe,.by,BY,BLR,112,Belarusian Ruble,BELARUS,BYN,933,,,paper
+Belize,,بليز,伯利兹,Belize,Belice,Belize,Белиз,Belize,Belmopan,NA,501,19,Americas,.bz,BZ,BLZ,84,Belize Dollar,BELIZE,BZD,84,,,paper
+Benin,,بنن,贝宁,Benin,Benin,Bénin,Бенин,Benin,Porto-Novo,AF,229,2,Africa,.bj,BJ,BEN,204,CFA Franc BCEAO,BENIN,XOF,952,,,paper
+Bermuda,,برمودا,百慕大,Bermuda,Bermuda,Bermudes,Бермудские острова,Bermuda,Hamilton,NA,1-441,19,Americas,.bm,BM,BMU,60,Bermudian Dollar,BERMUDA,BMD,60,,,paper
+Bhutan,,بوتان,不丹,Bhutan,Bhután,Bhoutan,Бутан,Bhutan,Thimphu,AS,975,142,Asia,.bt,BT,BTN,64,"Indian Rupee,Ngultrum",BHUTAN,"INR,BTN",356064,"10,20,50,100,500,1000","0.05,0.10,0.20,0.25,0.50,1,2,5",paper
+Bolivia (Plurinational State of),,بوليفيا (دولة - المتعددة القوميات),玻利维亚(多民族国),Bolivia (Plurinational State of),Bolivia (Estado Plurinacional de),Bolivie (État plurinational de),Боливия (Многонациональное Государство),Bolivia,Sucre,SA,591,19,Americas,.bo,BO,BOL,68,Boliviano,BOLIVIA (PLURINATIONAL STATE OF),BOB,68,,,paper
+"Bonaire, Sint Eustatius and Saba",,بونير وسان يوستاتيوس وسابا,"博纳尔,圣俄斯塔休斯和萨巴","Bonaire, Sint Eustatius and Saba","Bonaire, San Eustaquio y Saba","Bonaire, Saint-Eustache et Saba","Бонайре, Саба и Синт-Эстатиус",Caribbean Netherlands,,NA,599,19,Americas,.bq,BQ,BES,535,US Dollar,"BONAIRE, SINT EUSTATIUS AND SABA",USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+Bosnia and Herzegovina,,البوسنة والهرسك,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,Bosnia y Herzegovina,Bosnie-Herzégovine,Босния и Герцеговина,Bosnia,Sarajevo,EU,387,150,Europe,.ba,BA,BIH,70,Convertible Mark,BOSNIA AND HERZEGOVINA,BAM,977,,,paper
+Botswana,,بوتسوانا,博茨瓦纳,Botswana,Botswana,Botswana,Ботсвана,Botswana,Gaborone,AF,267,2,Africa,.bw,BW,BWA,72,Pula,BOTSWANA,BWP,72,,,paper
+Bouvet Island,,جزيرة بوفيت,布维岛,Bouvet Island,Isla Bouvet,Île Bouvet,Остров Буве,Bouvet Island,,AN,47,19,Americas,.bv,BV,BVT,74,Norwegian Krone,BOUVET ISLAND,NOK,578,"50,100,200,500,1000","0.50,1,5,10,20",paper
+British Indian Ocean Territory,,المحيط الهندي الإقليم البريطاني في,英属印度洋领土,British Indian Ocean Territory,Territorio Británico del Océano Índico,Territoire britannique de l'océan Indien,Британская территория в Индийском океане,British Indian Ocean Territory,Diego Garcia,AS,246,2,Africa,.io,IO,IOT,86,US Dollar,BRITISH INDIAN OCEAN TERRITORY,USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+British Virgin Islands,,جزر فرجن البريطانية,英属维尔京群岛,British Virgin Islands,Islas Vírgenes Británicas,Îles Vierges britanniques,Британские Виргинские острова,British Virgin Islands,Road Town,NA,1-284,19,Americas,.vg,VG,VGB,92,US Dollar,VIRGIN ISLANDS (BRITISH),USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+Brunei Darussalam,,بروني دار السلام,文莱达鲁萨兰国,Brunei Darussalam,Brunei Darussalam,Brunéi Darussalam,Бруней-Даруссалам,Brunei,Bandar Seri Begawan,AS,673,142,Asia,.bn,BN,BRN,96,Brunei Dollar,BRUNEI DARUSSALAM,BND,96,,,polymer
+Bulgaria,,بلغاريا,保加利亚,Bulgaria,Bulgaria,Bulgarie,Болгария,Bulgaria,Sofia,EU,359,150,Europe,.bg,BG,BGR,100,Bulgarian Lev,BULGARIA,BGN,975,,,paper
+Burkina Faso,,بوركينا فاسو,布基纳法索,Burkina Faso,Burkina Faso,Burkina Faso,Буркина-Фасо,Burkina Faso,Ouagadougou,AF,226,2,Africa,.bf,BF,BFA,854,CFA Franc BCEAO,BURKINA FASO,XOF,952,,,paper
+Burundi,,بوروندي,布隆迪,Burundi,Burundi,Burundi,Бурунди,Burundi,Bujumbura,AF,257,2,Africa,.bi,BI,BDI,108,Burundi Franc,BURUNDI,BIF,108,,,paper
+Cabo Verde,,كابو فيردي,佛得角,Cabo Verde,Cabo Verde,Cabo Verde,Кабо-Верде,Cape Verde,Praia,AF,238,2,Africa,.cv,CV,CPV,132,Cabo Verde Escudo,CABO VERDE,CVE,132,,,paper
+Cambodia,,كمبوديا,柬埔寨,Cambodia,Camboya,Cambodge,Камбоджа,Cambodia,Phnom Penh,AS,855,142,Asia,.kh,KH,KHM,116,Riel,CAMBODIA,KHR,116,,,paper
+Cameroon,,الكاميرون,喀麦隆,Cameroon,Camerún,Cameroun,Камерун,Cameroon,Yaounde,AF,237,2,Africa,.cm,CM,CMR,120,CFA Franc BEAC,CAMEROON,XAF,950,,,paper
+Cayman Islands,,جزر كايمان,开曼群岛,Cayman Islands,Islas Caimán,Îles Caïmanes,Кайман острова,Cayman Islands,George Town,NA,1-345,19,Americas,.ky,KY,CYM,136,Cayman Islands Dollar,CAYMAN ISLANDS,KYD,136,,,paper
+Central African Republic,,جمهورية أفريقيا الوسطى,中非共和国,Central African Republic,República Centroafricana,République centrafricaine,Центральноафриканская Республика,Central African Republic,Bangui,AF,236,2,Africa,.cf,CF,CAF,140,CFA Franc BEAC,CENTRAL AFRICAN REPUBLIC,XAF,950,,,paper
+Chad,,تشاد,乍得,Chad,Chad,Tchad,Чад,Chad,N'Djamena,AF,235,2,Africa,.td,TD,TCD,148,CFA Franc BEAC,CHAD,XAF,950,,,paper
+Chile,,شيلي,智利,Chile,Chile,Chili,Чили,Chile,Santiago,SA,56,19,Americas,.cl,CL,CHL,152,Chilean Peso,CHILE,CLP,152,,,paper
+"China, Macao Special Administrative Region",,منطقة ماكاو الإدارية الخاصة التابعة للصين,中国澳门特别行政区,"China, Macao Special Administrative Region","China, región administrativa especial de Macao","Chine, région administrative spéciale de Macao","Китай, Специальный административный район Макао",Macau,Macao,AS,853,142,Asia,.mo,MO,MAC,446,Pataca,MACAO,MOP,446,,,paper
+Christmas Island,,جزيرة كريسماس,圣诞岛,Christmas Island,Isla de Navidad,Île Christmas,остров Рождества,Christmas Island,Flying Fish Cove,AS,61,9,Oceania,.cx,CX,CXR,162,Australian Dollar,CHRISTMAS ISLAND,AUD,36,"5,10,20,50,100","0.05,0.10,0.20,0.50,1,2",paper
+Cocos (Keeling) Islands,,جزر كوكوس (كيلينغ),科科斯(基林)群岛,Cocos (Keeling) Islands,Islas Cocos (Keeling),Îles des Cocos (Keeling),Кокосовых (Килинг) островов,Cocos (Keeling) Islands,West Island,AS,61,9,Oceania,.cc,CC,CCK,166,Australian Dollar,COCOS (KEELING) ISLANDS,AUD,36,"5,10,20,50,100","0.05,0.10,0.20,0.50,1,2",paper
+Colombia,,كولومبيا,哥伦比亚,Colombia,Colombia,Colombie,Колумбия,Colombia,Bogota,SA,57,19,Americas,.co,CO,COL,170,Colombian Peso,COLOMBIA,COP,170,,,paper
+Comoros,,جزر القمر,科摩罗,Comoros,Comoras,Comores,Коморские Острова,Comoros,Moroni,AF,269,2,Africa,.km,KM,COM,174,Comorian Franc ,COMOROS,KMF,174,,,paper
+Congo,,الكونغو,刚果,Congo,Congo,Congo,Конго,Congo - Brazzaville,Brazzaville,AF,242,2,Africa,.cg,CG,COG,178,CFA Franc BEAC,CONGO,XAF,950,,,paper
+Cook Islands,,جزر كوك,库克群岛,Cook Islands,Islas Cook,Îles Cook,Острова Кука,Cook Islands,Avarua,OC,682,9,Oceania,.ck,CK,COK,184,New Zealand Dollar,COOK ISLANDS,NZD,554,"5,10,20,50,100","0.10,0.20,0.50,1,2",paper
+Costa Rica,,كوستاريكا,哥斯达黎加,Costa Rica,Costa Rica,Costa Rica,Коста-Рика,Costa Rica,San Jose,NA,506,19,Americas,.cr,CR,CRI,188,Costa Rican Colon,COSTA RICA,CRC,188,,,paper
+Côte d'Ivoire,,كوت ديفوار,科特迪瓦,Côte d'Ivoire,Côte d'Ivoire,Côte d'Ivoire,Кот-д'Ивуар,Côte d’Ivoire,Yamoussoukro,AF,225,2,Africa,.ci,CI,CIV,384,CFA Franc BCEAO,CÔTE D'IVOIRE,XOF,952,,,paper
+Croatia,,كرواتيا,克罗地亚,Croatia,Croacia,Croatie,Хорватия,Croatia,Zagreb,EU,385,150,Europe,.hr,HR,HRV,191,Kuna,CROATIA,HRK,191,,,paper
+Cuba,,كوبا,古巴,Cuba,Cuba,Cuba,Куба,Cuba,Havana,NA,53,19,Americas,.cu,CU,CUB,192,"Cuban Peso,Peso Convertible",CUBA,"CUP,CUC",192931,,,paper
+Curaçao,,كوراساو,库拉索,Curaçao,Curaçao,Curaçao,Кюрасао,Curaçao, Willemstad,NA,599,19,Americas,.cw,CW,CUW,531,Netherlands Antillean Guilder,CURAÇAO,ANG,532,,,paper
+Cyprus,,قبرص,塞浦路斯,Cyprus,Chipre,Chypre,Кипр,Cyprus,Nicosia,EU,357,142,Asia,.cy,CY,CYP,196,Euro,CYPRUS,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Czechia,,تشيكيا,捷克,Czechia,Chequia,Tchéquie,Чехия,Czechia,Prague,EU,420,150,Europe,.cz,CZ,CZE,203,Czech Koruna,CZECHIA,CZK,203,,,paper
+Democratic People's Republic of Korea,,جمهورية كوريا الشعبية الديمقراطية,朝鲜民主主义人民共和国,Democratic People's Republic of Korea,República Popular Democrática de Corea,République populaire démocratique de Corée,Корейская Народно-Демократическая Республика,North Korea,Pyongyang,AS,850,142,Asia,.kp,KP,PRK,408,North Korean Won,KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF),KPW,408,,,paper
+Democratic Republic of the Congo,,جمهورية الكونغو الديمقراطية,刚果民主共和国,Democratic Republic of the Congo,República Democrática del Congo,République démocratique du Congo,Демократическая Республика Конго,Congo - Kinshasa,Kinshasa,AF,243,2,Africa,.cd,CD,COD,180,Congolese Franc,CONGO (THE DEMOCRATIC REPUBLIC OF THE),CDF,976,,,paper
+Djibouti,,جيبوتي,吉布提,Djibouti,Djibouti,Djibouti,Джибути,Djibouti,Djibouti,AF,253,2,Africa,.dj,DJ,DJI,262,Djibouti Franc,DJIBOUTI,DJF,262,,,paper
+Dominica,,دومينيكا,多米尼克,Dominica,Dominica,Dominique,Доминика,Dominica,Roseau,NA,1-767,19,Americas,.dm,DM,DMA,212,East Caribbean Dollar,DOMINICA,XCD,951,,,paper
+Dominican Republic,,الجمهورية الدومينيكية,多米尼加,Dominican Republic,República Dominicana,République dominicaine,Доминиканская Республика,Dominican Republic,Santo Domingo,NA,"1-809,1-829,1-849",19,Americas,.do,DO,DOM,214,Dominican Peso,DOMINICAN REPUBLIC,DOP,214,,,paper
+Ecuador,,إكوادور,厄瓜多尔,Ecuador,Ecuador,Équateur,Эквадор,Ecuador,Quito,SA,593,19,Americas,.ec,EC,ECU,218,US Dollar,ECUADOR,USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+Egypt,,مصر,埃及,Egypt,Egipto,Égypte,Египет,Egypt,Cairo,AF,20,2,Africa,.eg,EG,EGY,818,Egyptian Pound,EGYPT,EGP,818,,,paper
+El Salvador,,السلفادور,萨尔瓦多,El Salvador,El Salvador,El Salvador,Сальвадор,El Salvador,San Salvador,NA,503,19,Americas,.sv,SV,SLV,222,"El Salvador Colon,US Dollar",EL SALVADOR,"SVC,USD",222840,,,paper
+Equatorial Guinea,,غينيا الاستوائية,赤道几内亚,Equatorial Guinea,Guinea Ecuatorial,Guinée équatoriale,Экваториальная Гвинея,Equatorial Guinea,Malabo,AF,240,2,Africa,.gq,GQ,GNQ,226,CFA Franc BEAC,EQUATORIAL GUINEA,XAF,950,,,paper
+Eritrea,,إريتريا,厄立特里亚,Eritrea,Eritrea,Érythrée,Эритрея,Eritrea,Asmara,AF,291,2,Africa,.er,ER,ERI,232,Nakfa,ERITREA,ERN,232,,,paper
+Estonia,,إستونيا,爱沙尼亚,Estonia,Estonia,Estonie,Эстония,Estonia,Tallinn,EU,372,150,Europe,.ee,EE,EST,233,Euro,ESTONIA,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Ethiopia,,إثيوبيا,埃塞俄比亚,Ethiopia,Etiopía,Éthiopie,Эфиопия,Ethiopia,Addis Ababa,AF,251,2,Africa,.et,ET,ETH,231,Ethiopian Birr,ETHIOPIA,ETB,230,,,paper
+Falkland Islands (Malvinas),,جزر فوكلاند (مالفيناس),福克兰群岛(马尔维纳斯),Falkland Islands (Malvinas),Islas Malvinas (Falkland),Îles Falkland (Malvinas),Фолклендские (Мальвинские) острова,Falkland Islands,Stanley,SA,500,19,Americas,.fk,FK,FLK,238,,,,,,,
+Faroe Islands,,جزر فايرو,法罗群岛,Faroe Islands,Islas Feroe,Îles Féroé,Фарерские острова,Faroe Islands,Torshavn,EU,298,150,Europe,.fo,FO,FRO,234,Danish Krone,FAROE ISLANDS,DKK,208,"50,100,200,500,1000","0.25,0.50,1,2,5,10,20",paper
+Fiji,,فيجي,斐济,Fiji,Fiji,Fidji,Фиджи,Fiji,Suva,OC,679,9,Oceania,.fj,FJ,FJI,242,Fiji Dollar,FIJI,FJD,242,,,paper
+Finland,,فنلندا,芬兰,Finland,Finlandia,Finlande,Финляндия,Finland,Helsinki,EU,358,150,Europe,.fi,FI,FIN,246,Euro,FINLAND,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+French Guiana,,غيانا الفرنسية,法属圭亚那,French Guiana,Guayana Francesa,Guyane française,Французская Гвиана,French Guiana,Cayenne,SA,594,19,Americas,.gf,GF,GUF,254,Euro,FRENCH GUIANA,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+French Polynesia,,بولينيزيا الفرنسية,法属波利尼西亚,French Polynesia,Polinesia Francesa,Polynésie française,Французская Полинезия,French Polynesia,Papeete,OC,689,9,Oceania,.pf,PF,PYF,258,CFP Franc,FRENCH POLYNESIA,XPF,953,,,paper
+French Southern Territories,,الأراضي الفرنسية الجنوبية الجنوبية,法属南方领地,French Southern Territories,Territorio de las Tierras Australes Francesas,Terres australes françaises,Южные земли (французская заморская территория),French Southern Territories,Port-aux-Francais,AN,262,2,Africa,.tf,TF,ATF,260,Euro,FRENCH SOUTHERN TERRITORIES,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Gabon,,غابون,加蓬,Gabon,Gabón,Gabon,Габон,Gabon,Libreville,AF,241,2,Africa,.ga,GA,GAB,266,CFA Franc BEAC,GABON,XAF,950,,,paper
+Gambia,,غامبيا,冈比亚,Gambia,Gambia,Gambie,Гамбия,Gambia,Banjul,AF,220,2,Africa,.gm,GM,GMB,270,Dalasi,GAMBIA,GMD,270,,,paper
+Georgia,,جورجيا,格鲁吉亚,Georgia,Georgia,Géorgie,Грузия,Georgia,Tbilisi,AS,995,142,Asia,.ge,GE,GEO,268,Lari,GEORGIA,GEL,981,,,paper
+Ghana,,غانا,加纳,Ghana,Ghana,Ghana,Гана,Ghana,Accra,AF,233,2,Africa,.gh,GH,GHA,288,Ghana Cedi,GHANA,GHS,936,,,paper
+Gibraltar,,جبل طارق,直布罗陀,Gibraltar,Gibraltar,Gibraltar,Гибралтар,Gibraltar,Gibraltar,EU,350,150,Europe,.gi,GI,GIB,292,Gibraltar Pound,GIBRALTAR,GIP,292,,,paper
+Greenland,,غرينلند,格陵兰,Greenland,Groenlandia,Groenland,Гренландия,Greenland,Nuuk,NA,299,19,Americas,.gl,GL,GRL,304,Danish Krone,GREENLAND,DKK,208,"50,100,200,500,1000","0.25,0.50,1,2,5,10,20",paper
+Grenada,,غرينادا,格林纳达,Grenada,Granada,Grenade,Гренада,Grenada,St. George's,NA,1-473,19,Americas,.gd,GD,GRD,308,East Caribbean Dollar,GRENADA,XCD,951,,,paper
+Guadeloupe,,غواديلوب,瓜德罗普,Guadeloupe,Guadalupe,Guadeloupe,Гваделупа,Guadeloupe,Basse-Terre,NA,590,19,Americas,.gp,GP,GLP,312,Euro,GUADELOUPE,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Guam,,غوام,关岛,Guam,Guam,Guam,Гуам,Guam,Hagatna,OC,1-671,9,Oceania,.gu,GU,GUM,316,US Dollar,GUAM,USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+Guatemala,,غواتيمالا,危地马拉,Guatemala,Guatemala,Guatemala,Гватемала,Guatemala,Guatemala City,NA,502,19,Americas,.gt,GT,GTM,320,Quetzal,GUATEMALA,GTQ,320,,,paper
+Guernsey,,غيرنزي,根西,Guernsey,Guernsey,Guernesey,Гернси,Guernsey,St Peter Port,EU,44,150,Europe,.gg,GG,GGY,831,Pound Sterling,GUERNSEY,GBP,826,"5,10,20,50","0.01,0.02,0.05,0.10,0.20,0.50,1,2",paper
+Guinea,,غينيا,几内亚,Guinea,Guinea,Guinée,Гвинея,Guinea,Conakry,AF,224,2,Africa,.gn,GN,GIN,324,Guinean Franc,GUINEA,GNF,324,,,paper
+Guinea-Bissau,,غينيا - بيساو,几内亚比绍,Guinea-Bissau,Guinea-Bissau,Guinée-Bissau,Гвинея-Бисау,Guinea-Bissau,Bissau,AF,245,2,Africa,.gw,GW,GNB,624,CFA Franc BCEAO,GUINEA-BISSAU,XOF,952,,,paper
+Guyana,,غيانا,圭亚那,Guyana,Guyana,Guyana,Гайана,Guyana,Georgetown,SA,592,19,Americas,.gy,GY,GUY,328,Guyana Dollar,GUYANA,GYD,328,,,paper
+Haiti,,هايتي,海地,Haiti,Haití,Haïti,Гаити,Haiti,Port-au-Prince,NA,509,19,Americas,.ht,HT,HTI,332,"Gourde,US Dollar",HAITI,"HTG,USD",332840,,,paper
+Heard Island and McDonald Islands,,جزيرة هيرد وجزر ماكدونالد,赫德岛和麦克唐纳岛,Heard Island and McDonald Islands,Islas Heard y McDonald,Île Heard-et-Îles MacDonald,Остров Херд и острова Макдональд,Heard & McDonald Islands,,AN,672,9,Oceania,.hm,HM,HMD,334,Australian Dollar,HEARD ISLAND AND MCDONALD ISLANDS,AUD,36,"5,10,20,50,100","0.05,0.10,0.20,0.50,1,2",paper
+Holy See,,الكرسي الرسولي,教廷,Holy See,Santa Sede,Saint-Siège,Святой Престол,Vatican City,Vatican City,EU,39-06,150,Europe,.va,VA,VAT,336,Euro,HOLY SEE,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Honduras,,هندوراس,洪都拉斯,Honduras,Honduras,Honduras,Гондурас,Honduras,Tegucigalpa,NA,504,19,Americas,.hn,HN,HND,340,Lempira,HONDURAS,HNL,340,,,paper
+Hungary,,هنغاريا,匈牙利,Hungary,Hungría,Hongrie,Венгрия,Hungary,Budapest,EU,36,150,Europe,.hu,HU,HUN,348,Forint,HUNGARY,HUF,348,,,paper
+Iceland,,آيسلندا,冰岛,Iceland,Islandia,Islande,Исландия,Iceland,Reykjavik,EU,354,150,Europe,.is,IS,ISL,352,Iceland Krona,ICELAND,ISK,352,,,paper
+Iran (Islamic Republic of),,إيران (جمهورية - الإسلامية),伊朗(伊斯兰共和国),Iran (Islamic Republic of),Irán (República Islámica del),Iran (République islamique d'),Иран (Исламская Республика),Iran,Tehran,AS,98,142,Asia,.ir,IR,IRN,364,Iranian Rial,IRAN (ISLAMIC REPUBLIC OF),IRR,364,,,paper
+Iraq,,العراق,伊拉克,Iraq,Iraq,Iraq,Ирак,Iraq,Baghdad,AS,964,142,Asia,.iq,IQ,IRQ,368,Iraqi Dinar,IRAQ,IQD,368,,,paper
+Ireland,,آيرلندا,爱尔兰,Ireland,Irlanda,Irlande,Ирландия,Ireland,Dublin,EU,353,150,Europe,.ie,IE,IRL,372,Euro,IRELAND,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Isle of Man,,جزيرة مان,马恩岛,Isle of Man,Isla de Man,Île de Man,Остров Мэн,Isle of Man,Douglas,EU,44,150,Europe,.im,IM,IMN,833,Pound Sterling,ISLE OF MAN,GBP,826,"5,10,20,50","0.01,0.02,0.05,0.10,0.20,0.50,1,2",paper
+Jamaica,,جامايكا,牙买加,Jamaica,Jamaica,Jamaïque,Ямайка,Jamaica,Kingston,NA,1-876,19,Americas,.jm,JM,JAM,388,Jamaican Dollar,JAMAICA,JMD,388,,,paper
+Jersey,,جيرزي,泽西,Jersey,Jersey,Jersey,Джерси,Jersey,Saint Helier,EU,44,150,Europe,.je,JE,JEY,832,Pound Sterling,JERSEY,GBP,826,"5,10,20,50","0.01,0.02,0.05,0.10,0.20,0.50,1,2",paper
+Jordan,,الأردن,约旦,Jordan,Jordania,Jordanie,Иордания,Jordan,Amman,AS,962,142,Asia,.jo,JO,JOR,400,Jordanian Dinar,JORDAN,JOD,400,,,paper
+Kazakhstan,,كازاخستان,哈萨克斯坦,Kazakhstan,Kazajstán,Kazakhstan,Казахстан,Kazakhstan,Astana,AS,7,142,Asia,.kz,KZ,KAZ,398,Tenge,KAZAKHSTAN,KZT,398,,,paper
+Kenya,,كينيا,肯尼亚,Kenya,Kenya,Kenya,Кения,Kenya,Nairobi,AF,254,2,Africa,.ke,KE,KEN,404,Kenyan Shilling,KENYA,KES,404,,,paper
+Kiribati,,كيريباس,基里巴斯,Kiribati,Kiribati,Kiribati,Кирибати,Kiribati,Tarawa,OC,686,9,Oceania,.ki,KI,KIR,296,Australian Dollar,KIRIBATI,AUD,36,"5,10,20,50,100","0.05,0.10,0.20,0.50,1,2",paper
+Kuwait,,الكويت,科威特,Kuwait,Kuwait,Koweït,Кувейт,Kuwait,Kuwait City,AS,965,142,Asia,.kw,KW,KWT,414,Kuwaiti Dinar,KUWAIT,KWD,414,,,paper
+Kyrgyzstan,,قيرغيزستان,吉尔吉斯斯坦,Kyrgyzstan,Kirguistán,Kirghizistan,Кыргызстан,Kyrgyzstan,Bishkek,AS,996,142,Asia,.kg,KG,KGZ,417,Som,KYRGYZSTAN,KGS,417,,,paper
+Lao People's Democratic Republic,,جمهورية لاو الديمقراطية الشعبية,老挝人民民主共和国,Lao People's Democratic Republic,República Democrática Popular Lao,République démocratique populaire lao,Лаосская Народно-Демократическая Республика,Laos,Vientiane,AS,856,142,Asia,.la,LA,LAO,418,Lao Kip,LAO PEOPLE’S DEMOCRATIC REPUBLIC,LAK,418,,,paper
+Latvia,,لاتفيا,拉脱维亚,Latvia,Letonia,Lettonie,Латвия,Latvia,Riga,EU,371,150,Europe,.lv,LV,LVA,428,Euro,LATVIA,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Lebanon,,لبنان,黎巴嫩,Lebanon,Líbano,Liban,Ливан,Lebanon,Beirut,AS,961,142,Asia,.lb,LB,LBN,422,Lebanese Pound,LEBANON,LBP,422,,,paper
+Lesotho,,ليسوتو,莱索托,Lesotho,Lesotho,Lesotho,Лесото,Lesotho,Maseru,AF,266,2,Africa,.ls,LS,LSO,426,"Loti,Rand",LESOTHO,"LSL,ZAR",426710,,,paper
+Liberia,,ليبريا,利比里亚,Liberia,Liberia,Libéria,Либерия,Liberia,Monrovia,AF,231,2,Africa,.lr,LR,LBR,430,Liberian Dollar,LIBERIA,LRD,430,,,paper
+Libya,,ليبيا,利比亚,Libya,Libia,Libye,Ливия,Libya,Tripoli,AF,218,2,Africa,.ly,LY,LBY,434,Libyan Dinar,LIBYA,LYD,434,,,paper
+Liechtenstein,,ليختنشتاين,列支敦士登,Liechtenstein,Liechtenstein,Liechtenstein,Лихтенштейн,Liechtenstein,Vaduz,EU,423,150,Europe,.li,LI,LIE,438,Swiss Franc,LIECHTENSTEIN,CHF,756,"10,20,50,100,200,1000","0.05,0.10,0.20,0.50,1,2,5",paper
+Lithuania,,ليتوانيا,立陶宛,Lithuania,Lituania,Lituanie,Литва,Lithuania,Vilnius,EU,370,150,Europe,.lt,LT,LTU,440,Euro,LITHUANIA,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Luxembourg,,لكسمبرغ,卢森堡,Luxembourg,Luxemburgo,Luxembourg,Люксембург,Luxembourg,Luxembourg,EU,352,150,Europe,.lu,LU,LUX,442,Euro,LUXEMBOURG,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Madagascar,,مدغشقر,马达加斯加,Madagascar,Madagascar,Madagascar,Мадагаскар,Madagascar,Antananarivo,AF,261,2,Africa,.mg,MG,MDG,450,Malagasy Ariary,MADAGASCAR,MGA,969,,,paper
+Malawi,,ملاوي,马拉维,Malawi,Malawi,Malawi,Малави,Malawi,Lilongwe,AF,265,2,Africa,.mw,MW,MWI,454,Malawi Kwacha,MALAWI,MWK,454,,,paper
+Malaysia,,ماليزيا,马来西亚,Malaysia,Malasia,Malaisie,Малайзия,Malaysia,Kuala Lumpur,AS,60,142,Asia,.my,MY,MYS,458,Malaysian Ringgit,MALAYSIA,MYR,458,,,paper
+Maldives,,ملديف,马尔代夫,Maldives,Maldivas,Maldives,Мальдивские Острова,Maldives,Male,AS,960,142,Asia,.mv,MV,MDV,462,Rufiyaa,MALDIVES,MVR,462,,,paper
+Mali,,مالي,马里,Mali,Malí,Mali,Мали,Mali,Bamako,AF,223,2,Africa,.ml,ML,MLI,466,CFA Franc BCEAO,MALI,XOF,952,,,paper
+Malta,,مالطة,马耳他,Malta,Malta,Malte,Мальта,Malta,Valletta,EU,356,150,Europe,.mt,MT,MLT,470,Euro,MALTA,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Marshall Islands,,جزر مارشال,马绍尔群岛,Marshall Islands,Islas Marshall,Îles Marshall,Маршалловы Острова,Marshall Islands,Majuro,OC,692,9,Oceania,.mh,MH,MHL,584,US Dollar,MARSHALL ISLANDS,USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+Martinique,,مارتينيك,马提尼克,Martinique,Martinica,Martinique,Мартиника,Martinique,Fort-de-France,NA,596,19,Americas,.mq,MQ,MTQ,474,Euro,MARTINIQUE,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Mauritania,,موريتانيا,毛里塔尼亚,Mauritania,Mauritania,Mauritanie,Мавритания,Mauritania,Nouakchott,AF,222,2,Africa,.mr,MR,MRT,478,Ouguiya,MAURITANIA,MRO,478,,,paper
+Mauritius,,موريشيوس,毛里求斯,Mauritius,Mauricio,Maurice,Маврикий,Mauritius,Port Louis,AF,230,2,Africa,.mu,MU,MUS,480,Mauritius Rupee,MAURITIUS,MUR,480,,,paper
+Mayotte,,جزيرة مايوت,马约特,Mayotte,Mayotte,Mayotte,Острове Майотта,Mayotte,Mamoudzou,AF,262,2,Africa,.yt,YT,MYT,175,Euro,MAYOTTE,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Micronesia (Federated States of),,ميكرونيزيا (ولايات - الموحدة),密克罗尼西亚(联邦),Micronesia (Federated States of),Micronesia (Estados Federados de),Micronésie (États fédérés de),Микронезия (Федеративные Штаты),Micronesia,Palikir,OC,691,9,Oceania,.fm,FM,FSM,583,US Dollar,MICRONESIA (FEDERATED STATES OF),USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+Monaco,,موناكو,摩纳哥,Monaco,Mónaco,Monaco,Монако,Monaco,Monaco,EU,377,150,Europe,.mc,MC,MCO,492,Euro,MONACO,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Mongolia,,منغوليا,蒙古,Mongolia,Mongolia,Mongolie,Монголия,Mongolia,Ulan Bator,AS,976,142,Asia,.mn,MN,MNG,496,Tugrik,MONGOLIA,MNT,496,,,paper
+Montenegro,,الجبل الأسود,黑山,Montenegro,Montenegro,Monténégro,Черногория,Montenegro,Podgorica,EU,382,150,Europe,.me,ME,MNE,499,Euro,MONTENEGRO,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Montserrat,,مونتسيرات,蒙特塞拉特,Montserrat,Montserrat,Montserrat,Монтсеррат,Montserrat,Plymouth,NA,1-664,19,Americas,.ms,MS,MSR,500,East Caribbean Dollar,MONTSERRAT,XCD,951,,,paper
+Morocco,,المغرب,摩洛哥,Morocco,Marruecos,Maroc,Марокко,Morocco,Rabat,AF,212,2,Africa,.ma,MA,MAR,504,Moroccan Dirham,MOROCCO,MAD,504,"20,50,100,200","0.10,0.20,0.50,1,2,5,10",paper
+Mozambique,,موزامبيق,莫桑比克,Mozambique,Mozambique,Mozambique,Мозамбик,Mozambique,Maputo,AF,258,2,Africa,.mz,MZ,MOZ,508,Mozambique Metical,MOZAMBIQUE,MZN,943,,,paper
+Myanmar,,ميانمار,缅甸,Myanmar,Myanmar,Myanmar,Мьянма,Myanmar,Nay Pyi Taw,AS,95,142,Asia,.mm,MM,MMR,104,Kyat,MYANMAR,MMK,104,,,paper
+Namibia,,ناميبيا,纳米比亚,Namibia,Namibia,Namibie,Намибия,Namibia,Windhoek,AF,264,2,Africa,.na,NA,NAM,516,"Namibia Dollar,Rand",NAMIBIA,"NAD,ZAR",516710,,,paper
+Nauru,,ناورو,瑙鲁,Nauru,Nauru,Nauru,Науру,Nauru,Yaren,OC,674,9,Oceania,.nr,NR,NRU,520,Australian Dollar,NAURU,AUD,36,"5,10,20,50,100","0.05,0.10,0.20,0.50,1,2",paper
+Nepal,,نيبال,尼泊尔,Nepal,Nepal,Népal,Непал,Nepal,Kathmandu,AS,977,142,Asia,.np,NP,NPL,524,Nepalese Rupee,NEPAL,NPR,524,,,paper
+New Caledonia,,كاليدونيا الجديدة,新喀里多尼亚,New Caledonia,Nueva Caledonia,Nouvelle-Calédonie,Новая Каледония,New Caledonia,Noumea,OC,687,9,Oceania,.nc,NC,NCL,540,CFP Franc,NEW CALEDONIA,XPF,953,,,paper
+Nicaragua,,نيكاراغوا,尼加拉瓜,Nicaragua,Nicaragua,Nicaragua,Никарагуа,Nicaragua,Managua,NA,505,19,Americas,.ni,NI,NIC,558,Cordoba Oro,NICARAGUA,NIO,558,,,paper
+Niger,,النيجر,尼日尔,Niger,Níger,Niger,Нигер,Niger,Niamey,AF,227,2,Africa,.ne,NE,NER,562,CFA Franc BCEAO,NIGER,XOF,952,,,paper
+Nigeria,,نيجيريا,尼日利亚,Nigeria,Nigeria,Nigéria,Нигерия,Nigeria,Abuja,AF,234,2,Africa,.ng,NG,NGA,566,Naira,NIGERIA,NGN,566,,,paper
+Niue,,نيوي,纽埃,Niue,Niue,Nioué,Ниуэ,Niue,Alofi,OC,683,9,Oceania,.nu,NU,NIU,570,New Zealand Dollar,NIUE,NZD,554,"5,10,20,50,100","0.10,0.20,0.50,1,2",paper
+Norfolk Island,,جزيرة نورفلك,诺福克岛,Norfolk Island,Islas Norfolk,Île Norfolk,Остров Норфолк,Norfolk Island,Kingston,OC,672,9,Oceania,.nf,NF,NFK,574,Australian Dollar,NORFOLK ISLAND,AUD,36,"5,10,20,50,100","0.05,0.10,0.20,0.50,1,2",paper
+Northern Mariana Islands,,جزر ماريانا الشمالية,北马里亚纳群岛,Northern Mariana Islands,Islas Marianas Septentrionales,Îles Mariannes du Nord,Северные Марианские острова,Northern Mariana Islands,Saipan,OC,1-670,9,Oceania,.mp,MP,MNP,580,US Dollar,NORTHERN MARIANA ISLANDS,USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+Oman,,عمان,阿曼,Oman,Omán,Oman,Оман,Oman,Muscat,AS,968,142,Asia,.om,OM,OMN,512,Rial Omani,OMAN,OMR,512,,,paper
+Pakistan,,باكستان,巴基斯坦,Pakistan,Pakistán,Pakistan,Пакистан,Pakistan,Islamabad,AS,92,142,Asia,.pk,PK,PAK,586,Pakistan Rupee,PAKISTAN,PKR,586,,,paper
+Palau,,بالاو,帕劳,Palau,Palau,Palaos,Палау,Palau,Melekeok,OC,680,9,Oceania,.pw,PW,PLW,585,US Dollar,PALAU,USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+Panama,,بنما,巴拿马,Panama,Panamá,Panama,Панама,Panama,Panama City,NA,507,19,Americas,.pa,PA,PAN,591,"Balboa,US Dollar",PANAMA,"PAB,USD",590840,,,paper
+Papua New Guinea,,بابوا غينيا الجديدة,巴布亚新几内亚,Papua New Guinea,Papua Nueva Guinea,Papouasie-Nouvelle-Guinée,Папуа-Новая Гвинея,Papua New Guinea,Port Moresby,OC,675,9,Oceania,.pg,PG,PNG,598,Kina,PAPUA NEW GUINEA,PGK,598,,,polymer
+Paraguay,,باراغواي,巴拉圭,Paraguay,Paraguay,Paraguay,Парагвай,Paraguay,Asuncion,SA,595,19,Americas,.py,PY,PRY,600,Guarani,PARAGUAY,PYG,600,,,paper
+Peru,,بيرو,秘鲁,Peru,Perú,Pérou,Перу,Peru,Lima,SA,51,19,Americas,.pe,PE,PER,604,Sol,PERU,PEN,604,,,paper
+Philippines,,الفلبين,菲律宾,Philippines,Filipinas,Philippines,Филиппины,Philippines,Manila,AS,63,142,Asia,.ph,PH,PHL,608,Philippine Piso,PHILIPPINES,PHP,608,,,paper
+Pitcairn,,بيتكيرن,皮特凯恩,Pitcairn,Pitcairn,Pitcairn,Питкэрн,Pitcairn Islands,Adamstown,OC,870,9,Oceania,.pn,PN,PCN,612,New Zealand Dollar,PITCAIRN,NZD,554,"5,10,20,50,100","0.10,0.20,0.50,1,2",paper
+Poland,,بولندا,波兰,Poland,Polonia,Pologne,Польша,Poland,Warsaw,EU,48,150,Europe,.pl,PL,POL,616,Zloty,POLAND,PLN,985,,,paper
+Portugal,,البرتغال,葡萄牙,Portugal,Portugal,Portugal,Португалия,Portugal,Lisbon,EU,351,150,Europe,.pt,PT,PRT,620,Euro,PORTUGAL,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Puerto Rico,,بورتوريكو,波多黎各,Puerto Rico,Puerto Rico,Porto Rico,Пуэрто-Рико,Puerto Rico,San Juan,NA,1,19,Americas,.pr,PR,PRI,630,US Dollar,PUERTO RICO,USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+Qatar,,قطر,卡塔尔,Qatar,Qatar,Qatar,Катар,Qatar,Doha,AS,974,142,Asia,.qa,QA,QAT,634,Qatari Rial,QATAR,QAR,634,,,paper
+Republic of Moldova,,جمهورية مولدوفا,摩尔多瓦共和国,Republic of Moldova,República de Moldova,République de Moldova,Республика Молдова,Moldova,Chisinau,EU,373,150,Europe,.md,MD,MDA,498,Moldovan Leu,MOLDOVA (THE REPUBLIC OF),MDL,498,,,paper
+Réunion,,ريونيون,留尼汪,Réunion,Reunión,Réunion,Реюньон,Réunion,Saint-Denis,AF,262,2,Africa,.re,RE,REU,638,Euro,RÉUNION,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Romania,,رومانيا,罗马尼亚,Romania,Rumania,Roumanie,Румыния,Romania,Bucharest,EU,40,150,Europe,.ro,RO,ROU,642,Romanian Leu,ROMANIA,RON,946,,,polymer
+Rwanda,,رواندا,卢旺达,Rwanda,Rwanda,Rwanda,Руанда,Rwanda,Kigali,AF,250,2,Africa,.rw,RW,RWA,646,Rwanda Franc,RWANDA,RWF,646,,,paper
+Saint Barthélemy,,سان بارتليمي,圣巴泰勒米,Saint Barthélemy,San Bartolomé,Saint-Barthélemy,Святой Варфоломей,St. Barthélemy,Gustavia,NA,590,19,Americas,.gp,BL,BLM,652,Euro,SAINT BARTHÉLEMY,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Saint Helena,,سانت هيلانة,圣赫勒拿,Saint Helena,Santa Elena,Sainte-Hélène,Остров Святой Елены,St. Helena,Jamestown,AF,290,2,Africa,.sh,SH,SHN,654,Saint Helena Pound,"SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",SHP,654,,,paper
+Saint Kitts and Nevis,,سانت كيتس ونيفس,圣基茨和尼维斯,Saint Kitts and Nevis,Saint Kitts y Nevis,Saint-Kitts-et-Nevis,Сент-Китс и Невис,St. Kitts & Nevis,Basseterre,NA,1-869,19,Americas,.kn,KN,KNA,659,East Caribbean Dollar,SAINT KITTS AND NEVIS,XCD,951,,,paper
+Saint Lucia,,سانت لوسيا,圣卢西亚,Saint Lucia,Santa Lucía,Sainte-Lucie,Сент-Люсия,St. Lucia,Castries,NA,1-758,19,Americas,.lc,LC,LCA,662,East Caribbean Dollar,SAINT LUCIA,XCD,951,,,paper
+Saint Martin (French Part),,سان مارتن,圣马丁(法属),Saint Martin (French Part),San Martín (parte francesa),Saint-Martin (partie française),Сен-Мартен,St. Martin,Marigot,NA,590,19,Americas,.gp,MF,MAF,663,Euro,SAINT MARTIN (FRENCH PART),EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Saint Pierre and Miquelon,,سان بيار وميكلون,圣皮埃尔和密克隆,Saint Pierre and Miquelon,Saint Pierre y Miquelon,Saint-Pierre-et-Miquelon,Сен-Пьер и Микелон,St. Pierre & Miquelon,Saint-Pierre,NA,508,19,Americas,.pm,PM,SPM,666,Euro,SAINT PIERRE AND MIQUELON,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Saint Vincent and the Grenadines,,سانت فنسنت وجزر غرينادين,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,San Vicente y las Granadinas,Saint-Vincent-et-les Grenadines,Сент-Винсент и Гренадины,St. Vincent & Grenadines,Kingstown,NA,1-784,19,Americas,.vc,VC,VCT,670,East Caribbean Dollar,SAINT VINCENT AND THE GRENADINES,XCD,951,,,paper
+Samoa,,ساموا,萨摩亚,Samoa,Samoa,Samoa,Самоа,Samoa,Apia,OC,685,9,Oceania,.ws,WS,WSM,882,Tala,SAMOA,WST,882,,,paper
+San Marino,,سان مارينو,圣马力诺,San Marino,San Marino,Saint-Marin,Сан-Марино,San Marino,San Marino,EU,378,150,Europe,.sm,SM,SMR,674,Euro,SAN MARINO,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Sao Tome and Principe,,سان تومي وبرينسيبي,圣多美和普林西比,Sao Tome and Principe,Santo Tomé y Príncipe,Sao Tomé-et-Principe,Сан-Томе и Принсипи,São Tomé & Príncipe,Sao Tome,AF,239,2,Africa,.st,ST,STP,678,Dobra,SAO TOME AND PRINCIPE,STD,678,,,paper
+Sark,,سارك,萨克,Sark,Sark,Sercq,Сарк,,,,,150,Europe,,,,,,,,,,,
+Saudi Arabia,,المملكة العربية السعودية,沙特阿拉伯,Saudi Arabia,Arabia Saudita,Arabie saoudite,Саудовская Аравия,Saudi Arabia,Riyadh,AS,966,142,Asia,.sa,SA,SAU,682,Saudi Riyal,SAUDI ARABIA,SAR,682,,,paper
+Senegal,,السنغال,塞内加尔,Senegal,Senegal,Sénégal,Сенегал,Senegal,Dakar,AF,221,2,Africa,.sn,SN,SEN,686,CFA Franc BCEAO,SENEGAL,XOF,952,,,paper
+Serbia,,صربيا,塞尔维亚,Serbia,Serbia,Serbie,Сербия,Serbia,Belgrade,EU,381,150,Europe,.rs,RS,SRB,688,Serbian Dinar,SERBIA,RSD,941,,,paper
+Seychelles,,سيشيل,塞舌尔,Seychelles,Seychelles,Seychelles,Сейшельские Острова,Seychelles,Victoria,AF,248,2,Africa,.sc,SC,SYC,690,Seychelles Rupee,SEYCHELLES,SCR,690,,,paper
+Sierra Leone,,سيراليون,塞拉利昂,Sierra Leone,Sierra Leona,Sierra Leone,Сьерра-Леоне,Sierra Leone,Freetown,AF,232,2,Africa,.sl,SL,SLE,694,Leone,SIERRA LEONE,SLL,694,,,paper
+Sint Maarten (Dutch part),,سانت مارتن,圣马丁(荷属),Sint Maarten (Dutch part),San Martín (parte holandés),Saint-Martin (partie néerlandaise),Синт-Мартен,Sint Maarten,Philipsburg,NA,1-721,19,Americas,.sx,SX,SXM,534,Netherlands Antillean Guilder,SINT MAARTEN (DUTCH PART),ANG,532,,,paper
+Slovakia,,سلوفاكيا,斯洛伐克,Slovakia,Eslovaquia,Slovaquie,Словакия,Slovakia,Bratislava,EU,421,150,Europe,.sk,SK,SVK,703,Euro,SLOVAKIA,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Slovenia,,سلوفينيا,斯洛文尼亚,Slovenia,Eslovenia,Slovénie,Словения,Slovenia,Ljubljana,EU,386,150,Europe,.si,SI,SVN,705,Euro,SLOVENIA,EUR,978,"5,10,20,50,100,200,500","0.05,0.10,0.20,0.50,1,2",paper
+Solomon Islands,,جزر سليمان,所罗门群岛,Solomon Islands,Islas Salomón,Îles Salomon,Соломоновы Острова,Solomon Islands,Honiara,OC,677,9,Oceania,.sb,SB,SLB,90,Solomon Islands Dollar,SOLOMON ISLANDS,SBD,90,,,paper
+Somalia,,الصومال,索马里,Somalia,Somalia,Somalie,Сомали,Somalia,Mogadishu,AF,252,2,Africa,.so,SO,SOM,706,Somali Shilling,SOMALIA,SOS,706,,,paper
+South Africa,,جنوب أفريقيا,南非,South Africa,Sudáfrica,Afrique du Sud,Южная Африка,South Africa,Pretoria,AF,27,2,Africa,.za,ZA,ZAF,710,Rand,SOUTH AFRICA,ZAR,710,,,paper
+South Georgia and the South Sandwich Islands,,جورجيا الجنوبية وجزر ساندويتش الجنوبية,南乔治亚岛和南桑德韦奇岛,South Georgia and the South Sandwich Islands,Georgia del Sur y las Islas Sandwich del Sur,Géorgie du Sud-et-les Îles Sandwich du Sud,Южная Джорджия и Южные Сандвичевы острова,South Georgia & South Sandwich Islands,Grytviken,AN,500,19,Americas,.gs,GS,SGS,239,No universal currency,SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS,,,,,
+South Sudan,,جنوب السودان,南苏丹,South Sudan,Sudán del Sur,Soudan du Sud,Южный Судан,South Sudan,Juba,AF,211,2,Africa,,SS,SSD,728,South Sudanese Pound,SOUTH SUDAN,SSP,728,,,paper
+Sri Lanka,,سري لانكا,斯里兰卡,Sri Lanka,Sri Lanka,Sri Lanka,Шри-Ланка,Sri Lanka,Colombo,AS,94,142,Asia,.lk,LK,LKA,144,Sri Lanka Rupee,SRI LANKA,LKR,144,,,paper
+State of Palestine,,دولة فلسطين,巴勒斯坦国,State of Palestine,Estado de Palestina,État de Palestine,Государство Палестина,Palestine,East Jerusalem,AS,970,142,Asia,.ps,PS,PSE,275,No universal currency,"PALESTINE, STATE OF",,,,,
+Sudan,,السودان,苏丹,Sudan,Sudán,Soudan,Судан,Sudan,Khartoum,AF,249,2,Africa,.sd,SD,SDN,729,Sudanese Pound,SUDAN,SDG,938,,,paper
+Suriname,,سورينام,苏里南,Suriname,Suriname,Suriname,Суринам,Suriname,Paramaribo,SA,597,19,Americas,.sr,SR,SUR,740,Surinam Dollar,SURINAME,SRD,968,,,paper
+Svalbard and Jan Mayen Islands,,جزر سفالبارد وجان ماين,斯瓦尔巴岛和扬马延岛,Svalbard and Jan Mayen Islands,Islas Svalbard y Jan Mayen,Îles Svalbard-et-Jan Mayen,Острова Свальбард и Ян-Майен,Svalbard & Jan Mayen,Longyearbyen,EU,47,150,Europe,.sj,SJ,SJM,744,Norwegian Krone,SVALBARD AND JAN MAYEN,NOK,578,"50,100,200,500,1000","0.50,1,5,10,20",paper
+Swaziland,,سوازيلند,斯威士兰,Swaziland,Swazilandia,Swaziland,Свазиленд,Swaziland,Mbabane,AF,268,2,Africa,.sz,SZ,SWZ,748,Lilangeni,SWAZILAND,SZL,748,,,paper
+Syrian Arab Republic,,الجمهورية العربية السورية,阿拉伯叙利亚共和国,Syrian Arab Republic,República Árabe Siria,République arabe syrienne,Сирийская Арабская Республика,Syria,Damascus,AS,963,142,Asia,.sy,SY,SYR,760,Syrian Pound,SYRIAN ARAB REPUBLIC,SYP,760,,,paper
+Tajikistan,,طاجيكستان,塔吉克斯坦,Tajikistan,Tayikistán,Tadjikistan,Таджикистан,Tajikistan,Dushanbe,AS,992,142,Asia,.tj,TJ,TJK,762,Somoni,TAJIKISTAN,TJS,972,,,paper
+Thailand,,تايلند,泰国,Thailand,Tailandia,Thaïlande,Таиланд,Thailand,Bangkok,AS,66,142,Asia,.th,TH,THA,764,Baht,THAILAND,THB,764,,,paper
+The former Yugoslav Republic of Macedonia,,جمهورية مقدونيا اليوغوسلافية سابقاً,前南斯拉夫的马其顿共和国,The former Yugoslav Republic of Macedonia,ex República Yugoslava de Macedonia,ex-République yougoslave de Macédoine,бывшая югославская Республика Македония,Macedonia,Skopje,EU,389,150,Europe,.mk,MK,MKD,807,Denar,MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF),MKD,807,,,paper
+Timor-Leste,,تيمور- ليشتي,东帝汶,Timor-Leste,Timor-Leste,Timor-Leste,Тимор-Лешти,Timor-Leste,Dili,OC,670,142,Asia,.tl,TL,TLS,626,US Dollar,TIMOR-LESTE,USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+Togo,,توغو,多哥,Togo,Togo,Togo,Того,Togo,Lome,AF,228,2,Africa,.tg,TG,TGO,768,CFA Franc BCEAO,TOGO,XOF,952,,,paper
+Tokelau,,توكيلاو,托克劳,Tokelau,Tokelau,Tokélaou,Токелау,Tokelau,,OC,690,9,Oceania,.tk,TK,TKL,772,New Zealand Dollar,TOKELAU,NZD,554,"5,10,20,50,100","0.10,0.20,0.50,1,2",paper
+Tonga,,تونغا,汤加,Tonga,Tonga,Tonga,Тонга,Tonga,Nuku'alofa,OC,676,9,Oceania,.to,TO,TON,776,Pa’anga,TONGA,TOP,776,,,paper
+Trinidad and Tobago,,ترينيداد وتوباغو,特立尼达和多巴哥,Trinidad and Tobago,Trinidad y Tabago,Trinité-et-Tobago,Тринидад и Тобаго,Trinidad & Tobago,Port of Spain,NA,1-868,19,Americas,.tt,TT,TTO,780,Trinidad and Tobago Dollar,TRINIDAD AND TOBAGO,TTD,780,,,paper
+Tunisia,,تونس,突尼斯,Tunisia,Túnez,Tunisie,Тунис,Tunisia,Tunis,AF,216,2,Africa,.tn,TN,TUN,788,Tunisian Dinar,TUNISIA,TND,788,,,paper
+Turkmenistan,,تركمانستان,土库曼斯坦,Turkmenistan,Turkmenistán,Turkménistan,Туркменистан,Turkmenistan,Ashgabat,AS,993,142,Asia,.tm,TM,TKM,795,Turkmenistan New Manat,TURKMENISTAN,TMT,934,,,paper
+Turks and Caicos Islands,,جزر تركس وكايكوس,特克斯和凯科斯群岛,Turks and Caicos Islands,Islas Turcas y Caicos,Îles Turques-et-Caïques,Острова Тёркс и Кайкос,Turks & Caicos Islands,Cockburn Town,NA,1-649,19,Americas,.tc,TC,TCA,796,US Dollar,TURKS AND CAICOS ISLANDS,USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+Tuvalu,,توفالو,图瓦卢,Tuvalu,Tuvalu,Tuvalu,Тувалу,Tuvalu,Funafuti,OC,688,9,Oceania,.tv,TV,TUV,798,Australian Dollar,TUVALU,AUD,36,"5,10,20,50,100","0.05,0.10,0.20,0.50,1,2",paper
+Uganda,,أوغندا,乌干达,Uganda,Uganda,Ouganda,Уганда,Uganda,Kampala,AF,256,2,Africa,.ug,UG,UGA,800,Uganda Shilling,UGANDA,UGX,800,,,paper
+Ukraine,,أوكرانيا,乌克兰,Ukraine,Ucrania,Ukraine,Украина,Ukraine,Kiev,EU,380,150,Europe,.ua,UA,UKR,804,Hryvnia,UKRAINE,UAH,980,,,paper
+United Arab Emirates,,الإمارات العربية المتحدة,阿拉伯联合酋长国,United Arab Emirates,Emiratos Árabes Unidos,Émirats arabes unis,Объединенные Арабские Эмираты,United Arab Emirates,Abu Dhabi,AS,971,142,Asia,.ae,AE,ARE,784,UAE Dirham,UNITED ARAB EMIRATES,AED,784,,,paper
+United Republic of Tanzania,,جمهورية تنزانيا المتحدة,坦桑尼亚联合共和国,United Republic of Tanzania,República Unida de Tanzanía,République-Unie de Tanzanie,Объединенная Республика Танзания,Tanzania,Dodoma,AF,255,2,Africa,.tz,TZ,TZA,834,Tanzanian Shilling,"TANZANIA, UNITED REPUBLIC OF",TZS,834,,,paper
+United States Minor Outlying Islands,,نائية التابعة للولايات المتحدة,美国本土外小岛屿,United States Minor Outlying Islands,Islas menores alejadas de Estados Unidos,Îles mineures éloignées des États-Unis,Внешние малые острова Coeдинeнныx Штaтoв,U.S. Outlying Islands,,OC, ,9,Oceania,.um,UM,UMI,581,US Dollar,UNITED STATES MINOR OUTLYING ISLANDS,USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+United States Virgin Islands,,جزر فرجن التابعة للولايات المتحدة,美属维尔京群岛,United States Virgin Islands,Islas Vírgenes de los Estados Unidos,Îles Vierges américaines,Виргинские oстрова Coeдинeнныx Штaтoв,U.S. Virgin Islands,Charlotte Amalie,NA,1-340,19,Americas,.vi,VI,VIR,850,US Dollar,VIRGIN ISLANDS (U.S.),USD,840,"1:1,2:7,5:4,10:5,20:3,50:6,100:2","0.01,0.05,0.10,0.25,0.50,1",paper
+Uruguay,,أوروغواي,乌拉圭,Uruguay,Uruguay,Uruguay,Уругвай,Uruguay,Montevideo,SA,598,19,Americas,.uy,UY,URY,858,Peso Uruguayo,URUGUAY,UYU,858,,,paper
+Uzbekistan,,أوزبكستان,乌兹别克斯坦,Uzbekistan,Uzbekistán,Ouzbékistan,Узбекистан,Uzbekistan,Tashkent,AS,998,142,Asia,.uz,UZ,UZB,860,Uzbekistan Sum,UZBEKISTAN,UZS,860,,,paper
+Vanuatu,,فانواتو,瓦努阿图,Vanuatu,Vanuatu,Vanuatu,Вануату,Vanuatu,Port Vila,OC,678,9,Oceania,.vu,VU,VUT,548,Vatu,VANUATU,VUV,548,,,paper
+Venezuela (Bolivarian Republic of),,فنزويلا (جمهورية - البوليفارية),委内瑞拉(玻利瓦尔共和国),Venezuela (Bolivarian Republic of),Venezuela (República Bolivariana de),Venezuela (République bolivarienne du),Венесуэла (Боливарианская Республика),Venezuela,Caracas,SA,58,19,Americas,.ve,VE,VEN,862,Bolívar,VENEZUELA (BOLIVARIAN REPUBLIC OF),VEF,937,,,paper
+Viet Nam,,فييت نام,越南,Viet Nam,Viet Nam,Viet Nam,Вьетнам,Vietnam,Hanoi,AS,84,142,Asia,.vn,VN,VNM,704,Dong,VIET NAM,VND,704,,,polymer
+Wallis and Futuna Islands,,جزر واليس وفوتونا,瓦利斯群岛和富图纳群岛,Wallis and Futuna Islands,Islas Wallis y Futuna,Îles Wallis-et-Futuna,Острова Уоллис и Футуна,Wallis & Futuna,Mata Utu,OC,681,9,Oceania,.wf,WF,WLF,876,CFP Franc,WALLIS AND FUTUNA,XPF,953,,,paper
+Western Sahara,,الصحراء الغربية,西撒哈拉,Western Sahara,Sáhara Occidental,Sahara occidental,Западная Сахара,Western Sahara,El-Aaiun,AF,212,2,Africa,.eh,EH,ESH,732,Moroccan Dirham,WESTERN SAHARA,MAD,504,"20,50,100,200","0.10,0.20,0.50,1,2,5,10",paper
+Yemen,,اليمن,也门,Yemen,Yemen,Yémen,Йемен,Yemen,Sanaa,AS,967,142,Asia,.ye,YE,YEM,887,Yemeni Rial,YEMEN,YER,886,,,paper
+Zambia,,زامبيا,赞比亚,Zambia,Zambia,Zambie,Замбия,Zambia,Lusaka,AF,260,2,Africa,.zm,ZM,ZMB,894,Zambian Kwacha,ZAMBIA,ZMW,967,,,paper
+Zimbabwe,,زمبابوي,津巴布韦,Zimbabwe,Zimbabwe,Zimbabwe,Зимбабве,Zimbabwe,Harare,AF,263,2,Africa,.zw,ZW,ZWE,716,Zimbabwe Dollar,ZIMBABWE,ZWL,932,,,paper

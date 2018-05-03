@@ -1,0 +1,87 @@
+I follow ISO3166 standard, ISO4127 standard and references from web to make a statistics table.
+
+* Country and Currency is ordered by National Wealth 2017.
+* Currency denomination are acquired from search results. Some countries are sharing the same currency.
+* Currency in Circulation Volume is a national secret and classified. Only US Dollar data is available.
+
+All the data I have now :
+* Countries & Currencies : 251
+* Currency denomination : 23
+* Currency denomination Volume in circulation : 1 (US Dollar)
+* Currency Images : 2 (US, Japan)
+
+
+1. Country : ISO3166
+    * name
+    * official name
+    * display name
+    * capital
+    * continent
+    * dial
+    * region code
+    * region name
+    * top level domain
+    * code alpha 2
+    * code alpha 3
+    * code numeric 3
+    * national wealth 2017
+2. Currency : ISO4217
+    * name
+    * country name
+    * alphabetic code
+    * numeric code
+3. Currency Additional
+    * Notes material
+    * Notes denomination
+    * Coins
+4. Country & Currency Rank
+    * Top 30 countries from Country Wealth Rank 2016
+5. Currency Note Rank (Popularity)
+    * Note in circulation Volume from each national bank
+      -> This is National Secret or classified.
+    * Rank Notes popularity individually
+6. Currency Image (front & back)
+    * Image from each national bank
+    * Search currency image individually online
+    * Take pictures by ourselves
+
+
+What is the next ?
+1. Since there are so many currencies in the world. National Wealth Order is helpful when we make decisions.
+2. The popularity of Currency denomination is very hard to decide. Because countries have different rules.
+Rank popularity based on the currency in circulation is also very hard due to the unreachable statistics data.
+3. We have to rank Notes popularity individually, or apply the same process to all Notes denomination.
+4. Currency Images Marker. How do we define the quality of the Image ?
+
+
+How to process Note Image ?
+1. Collect all the images.
+2. Upload images into the storage.
+3. Record value:url pair into the table.
+4. Process table data into the format we want.
+
+```
+US_notes
+Euro_notes
+Japan_notes
+China_notes
+Australian_notes
+Canadian_notes
+NewTaiwan_notes
+SouthKorea_notes
+SwissFranc_notes
+India_notes
+Brazil_notes
+Indonesia_notes
+Sweden_notes
+Mexico_notes
+UK_notes
+Norway_notes
+HongKong_notes
+Singapore_notes
+Russia_notes
+Denmark_notes
+Turkey_notes
+NewZealand_notes
+Israel_notes
+```
